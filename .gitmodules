@@ -1,0 +1,3 @@
+[submodule "recettes"]
+	path = recettes
+	url = git@github.com:llPekoll/recettes.git
