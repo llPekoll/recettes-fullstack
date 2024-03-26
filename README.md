@@ -41,9 +41,16 @@ https://codepen.io/nailaahmad/pen/MyZXVE
 autocomplete
 https://codepen.io/mrcodebox33/pen/OJaGrra
 
+https://twitter.com/mschwaibold/status/1749468721926533401?s=46&t=OWCePsTO40De3utGvrB_nQ
 
 
-## TODO 
+
+
+## TODO
+ - [ ] make article and recipe creation Atomic (ont recod if fail)
+ - [ ] make validator for link
+ - [ ] add duration reading time on article
+ - [ ] embeded on on links
  - [ ] add text in report to be more sepcific
  - [ ] bug ondetail page recipe False is not defined somw stuff need to be lowered
  - [ ] Show rules to user to avoid shit on the app
@@ -52,18 +59,18 @@ https://codepen.io/mrcodebox33/pen/OJaGrra
  - [ ] display error on HTMX
  - [ ] use poetry
  - [ ] add trigram for search
- - [ ] make author page
  - [ ] add advertising for make cash
  - [ ] add crypto reward [BAT,Polygon,NFTL]
  - [ ] Bio -> Quill
  - [ ] export pdf
- 
+
+ - [-] make author page
  - [x] indicator for create Recipe Article
  - [x] test on comment
  - [x] install versatile image
  - [x] test on edit article
  - [x] put back image when create recipe
- - [x] faire le footer RGPD etc.... 
+ - [x] faire le footer RGPD etc....
  - [x] make a component from comment
  - [x] test on edit recipe
  - [x] add pagination(https://realpython.com/django-pagination/), https://htmx.org/examples/infinite-scroll/
@@ -85,9 +92,9 @@ https://codepen.io/mrcodebox33/pen/OJaGrra
 
 # ChangeLog
 ### V 0.01
-  
- - install minio, 
- - Edit profile pricture, 
+
+ - install minio,
+ - Edit profile pricture,
  - Add recipie picture
  - Blog
  - move article to an serparated app
@@ -101,7 +108,7 @@ https://codepen.io/mrcodebox33/pen/OJaGrra
  - make search better
  - Django pictures
 
-## Recipe 
+## Recipe
 
  we can create recipe from ingredient or from the form
 
